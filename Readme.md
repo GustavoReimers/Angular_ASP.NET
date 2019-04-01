@@ -129,8 +129,8 @@ I've changed the default output folder in `angular-cli.json` from the `.\dist` f
 If you just want to run the application from a docker file, you can use the following from a command line if Docker is installed:
 
 ```ps
-docker pull rickstrahl/albumviewer
-docker run  -it -p 5004:80 --name albumviewer  rickstrahl/albumviewer
+docker pull dragonboy612/Angular_ASP.NET
+docker run  -it -p 5004:80 --name albumviewer  dragonboy612/Angular_ASP.NET
 ```
 
 You should then be able to navigate to:
